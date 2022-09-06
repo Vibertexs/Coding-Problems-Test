@@ -28,4 +28,8 @@ class Solution:
 
 print(Solution().solve([-9, -2, 0, 2, 3]))
 
-
+'''
+1. We initialize an empty array which is 'arr' in this case
+2. We loop through all the elements in nums and append the squared value of it into arr
+3. We sort arr and return it
+'''
