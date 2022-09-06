@@ -3,12 +3,19 @@ Given a list of integers sorted in ascending order nums,
 square the elements and give the output in sorted order
 
 Example 1
+    Input
+        nums = [-9, -2, 0, 2, 3]
+
+    Output
+        [0,4,4,9,81]
+
+Example 2
 
 Input
-    nums = [-9, -2, 0, 2, 3]
+    nums = [1,2,3,4,5]
 
 Output
-    [0,4,4,9,81]
+    nums = [1,4,9,16,25]
 '''
 
 class Solution:
